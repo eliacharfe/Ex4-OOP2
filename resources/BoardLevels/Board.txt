@@ -1,0 +1,29 @@
+7 11
+ C-V--C    
+CC-  -+C   
+CVT---V-   
+V----SCC   
+ ---C+V    
+           
+           
+9 12
+S-C-V--CV   
+---C--+-C   
+C-CC--V -   
+V -+--C V   
+-C--C-C-C   
+C-+--V- -   
+ --C-VC-T   
+            
+            
+10 16
+  CV---C--      
+ VS-+--V- -     
+ --V--CC--+-    
+ +---C-C--V-C   
+C--VV--C  -C-   
+CVVC-+-+---V    
+   -V--C-T--C   
+    -V--        
+                
+                
